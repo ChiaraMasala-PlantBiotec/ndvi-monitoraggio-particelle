@@ -1,0 +1,9 @@
+id_particella,coltura,superficie_dichiarata_ha,superficie_calcolata_ha,perc_nuvole,ndvi_medio,perc_sotto_04
+P01,mais,15.76,15.75,8.2,0.78,0.0
+P02,mais,13.39,13.95,0.0,0.676,13.8
+P03,grano duro,15.32,15.96,0.0,0.18,100.0
+P04,vite,8.91,8.91,17.85,0.46,6.83
+P05,vite,7.98,7.98,0.0,0.459,6.65
+P06,carciofo,8.32,8.32,0.0,0.494,24.61
+P07,erba medica,17.71,15.81,0.0,0.678,0.0
+P08,oliveto,15.45,15.45,0.0,0.38,69.49
